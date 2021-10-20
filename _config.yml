@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Java Development Engineer
+title: LvhengDoc
 email: lv.heng@foxmail.com
 author: lvheng0104
 copyright: Copyright © 1970-2021
@@ -50,10 +50,10 @@ yat:
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+# sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+ lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
