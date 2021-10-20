@@ -135,11 +135,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+ defaults:
+   home:
+     heading: "Your awesome heading"
+     subheading: "Your awesome subheading"
+     banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -169,7 +169,7 @@ yat:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
+   username: "lvheng0104"
 #   repo: "The repo to store comments"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
